@@ -9,3 +9,5 @@
 [Lean4 Link](https://lean-ja.github.io/links/)
 
 [Lean で学ぶ初めての整数論](https://seasawher.github.io/number-theory-with-lean/)
+
+[ProofWidgets](https://github.com/leanprover-community/ProofWidgets4)
