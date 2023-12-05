@@ -8,6 +8,8 @@
 
 [Lean4 Link](https://lean-ja.github.io/links/)
 
+[Division by zero in type theory: a FAQ](https://lean-ja.github.io/xena-ja/division_by_zero/index.html)
+
 [Lean で学ぶ初めての整数論](https://seasawher.github.io/number-theory-with-lean/)
 
 [ProofWidgets](https://github.com/leanprover-community/ProofWidgets4)
